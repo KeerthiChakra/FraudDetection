@@ -1,0 +1,5 @@
+langchain
+streamlit
+catboost
+dotenv
+joblib
